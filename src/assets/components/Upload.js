@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Upload.css";
+//read me 
 
 function Upload(props) {
   const  {files, setFiles,preview, setPreview,urlInput, setUrlInput} = props
