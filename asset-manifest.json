@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/negin2/static/css/main.7e9d1436.css",
+    "main.js": "/negin2/static/js/main.a0729b06.js",
+    "static/media/logoei.png": "/negin2/static/media/logoei.bdc0ba68bf35a676cf06.png",
+    "index.html": "/negin2/index.html",
+    "main.7e9d1436.css.map": "/negin2/static/css/main.7e9d1436.css.map",
+    "main.a0729b06.js.map": "/negin2/static/js/main.a0729b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e9d1436.css",
+    "static/js/main.a0729b06.js"
+  ]
+}
